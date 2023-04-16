@@ -1,5 +1,7 @@
 Dans le fichier Code_Rocky.ino se retrouve le code du robot de l'équipe 11 nommée Rocky.
 
+Une version Code_Rocky.txt est aussi incluse.
+
 Ce code utilise le IDE d'Arduino et voici le lien de téléchargement :
     https://www.arduino.cc/en/software
     CHOISIR : Arduino IDE 2.0
