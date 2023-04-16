@@ -11,3 +11,5 @@ Pour bien utiliser le code, il faut l'installation de plusieurs librairies sur l
 1. Servo by Michael Margolis, Arduino
 2. Adafruit Motor Sheild V2 Library by Adafruit
 3. Dabble by STEMpedia
+
+Veuillez télécharger le ZIP file pour avoir accès au fihcier Code_Rocky.ino directement.
